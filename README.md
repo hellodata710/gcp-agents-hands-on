@@ -65,6 +65,11 @@ completed the tutorial 10:15 PM
 **Level 1
 https://codelabs.developers.google.com/way-back-home-level-1/instructions#0
 completed the tutorial 11:45 PM
+
+Error in command : curl -X GET "$AGENT_URL/list-apps"
+
+change command to  : curl -i -X GET "$AGENT_URL/"ENT_URL/"
+
 <img width="645" height="618" alt="image" src="https://github.com/user-attachments/assets/4f5d8a1d-ba6a-4818-9e31-b6b9ef71db67" />
 <img width="931" height="906" alt="image" src="https://github.com/user-attachments/assets/14154e69-d73b-422b-8089-ef6f836d279c" />
 
