@@ -92,6 +92,13 @@ https://codelabs.developers.google.com/way-back-home-level-3/instructions#0
 Tutorial-3 : Hands-on AI workshop: Graph RAG, Memory & Multimodal Agents https://www.youtube.com/watch?v=FzvIuoIJCcU
 
 Level 5
-https://codelabs.developers.google.com/way-back-home-level-5/instructions#0
+
+----------------------------------------------------------------------------------
+
+Vibe coding to production: AI agents, testing & CI/CD with Gemini CLI
+https://www.youtube.com/watch?v=qCBreTfjFHQ
+Agentverse - The Scholar's Grimoire - Building Knowledge Engines with RAG
+https://codelabs.developers.google.com/agentverse-dataengineer/instructions#0
+
 
 
